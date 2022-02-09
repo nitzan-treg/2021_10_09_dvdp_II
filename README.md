@@ -1,4 +1,4 @@
-#  Davidoe II
+# Davidope II
 This project is very much inspired by davidope's art
 
 Its an attempt to create a satisfying looping animation in the black & white style of davidope
