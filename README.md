@@ -18,6 +18,6 @@ rotate(xform,rotate_amp,rnd_axis);
 
 v@P*=xform;
 ```
-<img alt = "gif" src="Images/2021_10_09_dvdp_II.gif"></code>
+<img alt = "gif" src="Images/2021_10_09_dvdp_II.gif">
 
 <img src="Images/Node Tree.png">
