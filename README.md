@@ -1,5 +1,5 @@
 # Davidope II
-This project is very much inspired by davidope's art
+This project is very much inspired by davidope's art https://www.instagram.com/dvdp/
 
 Its an attempt to create a satisfying looping animation in the black & white style of davidope
 I used a falloff and a rotation matrix to control the animation
